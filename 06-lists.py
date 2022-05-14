@@ -12,3 +12,8 @@ st = "Hello"
 print(st[1])
 
 print(w + [4,5])
+
+# len() returns the length of the list or string
+print("List = " + str(len(w)))
+print("String = " + str(len(st)))
+
