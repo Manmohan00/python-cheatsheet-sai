@@ -5,4 +5,6 @@ line = file.readlines()
 
 line2 = re.findall('[0-9][0-9][0-9][0-9]',line[5])
 print(line2)
-print("Second Git line")
+print("Edit for the Second Branch")
+
+print("Yes it is")
